@@ -22,6 +22,7 @@ Portfolio: **[solsonaM.github.io](https://solsonaM.github.io)**
 
 - Email: [angelosolsona.work@gmail.com](mailto:angelosolsona.work@gmail.com)
 - GitHub: [solsonaM](https://github.com/solsonaM)
+- LinkedIn: [angelo-solsona](https://www.linkedin.com/in/angelo-solsona-b0875843b)
 
 <!--
 Suggested pins (profile → Customize your pins):
