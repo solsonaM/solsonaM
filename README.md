@@ -1,26 +1,31 @@
 # Angelo Solsona
 
-3rd-year BS Computer Science student at [Catanduanes State University](https://www.catanduanesstateu.edu.ph/).  
-COO of the Vanguard Society. Building web software, security tooling, and research prototypes.
+**3rd-year BS Computer Science** · Catanduanes State University · Philippines  
+COO, Vanguard Society · Seeking internships and entry-level roles in **web development**, **ML**, and **security**
 
-**Open to internships and entry-level roles** in web development, machine learning, and security.
-
-[Portfolio](https://solsonaM.github.io) · [Email](mailto:angelosolsona.work@gmail.com) · [GitHub](https://github.com/solsonaM)
+Building tools for safer software and smarter local services.
 
 ## Featured work
 
-**[RepoGuard](https://github.com/solsonaM/RepoGuard)** — Python  
-Pre-install scanner for public GitHub repositories and AI-skill packages. Fetches a repo at an exact commit and statically analyzes it without installing or executing target code. Verdict is APPROVED or REJECTED.
+| Project | What it does |
+|---------|----------------|
+| **[RepoGuard](https://github.com/solsonaM/RepoGuard)** | Pre-install scanner for public GitHub repos and AI skills — static analysis only, APPROVED/REJECTED verdict |
+| **[Barangay SAGIP](https://github.com/solsonaM/Barangay-SAGIP)** | Tokenization-based emergency assistance classification and response coordination for barangay services |
 
-**[Barangay SAGIP](https://github.com/solsonaM/Barangay-SAGIP)** — PHP / Laravel  
-Emergency assistance classification and response coordination platform for smart barangay services. Tokenization-based, rule-based classification with FastAPI, maps, notifications, and reports.
+Portfolio: **[solsonaM.github.io](https://solsonaM.github.io)**
 
-## Currently
+## Stack I use often
 
-- Studying Computer Science at CatSU
-- Operating as COO of the Vanguard Society
-- Looking for internships
+`Python` · `PHP` · `Laravel` · `FastAPI` · `JavaScript` · `Docker` · `GitHub Actions` · `Semgrep` · `Gitleaks` · `Tailwind` · `Vite`
 
-## Stack
+## Contact
 
-Python · PHP · JavaScript · Laravel · FastAPI · Docker · GitHub Actions
+- Email: [angelosolsona.work@gmail.com](mailto:angelosolsona.work@gmail.com)
+- GitHub: [solsonaM](https://github.com/solsonaM)
+
+<!--
+Suggested pins (profile → Customize your pins):
+1. RepoGuard
+2. Barangay-SAGIP
+3. solsonaM.github.io
+-->
