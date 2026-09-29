@@ -1,16 +1,26 @@
-## Hi there 👋
+# Angelo Solsona
 
-<!--
-**solsonaM/solsonaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year BS Computer Science student at [Catanduanes State University](https://www.catanduanesstateu.edu.ph/).  
+COO of the Vanguard Society. Building web software, security tooling, and research prototypes.
 
-Here are some ideas to get you started:
+**Open to internships and entry-level roles** in web development, machine learning, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://solsonaM.github.io) · [Email](mailto:angelosolsona.work@gmail.com) · [GitHub](https://github.com/solsonaM)
+
+## Featured work
+
+**[RepoGuard](https://github.com/solsonaM/RepoGuard)** — Python  
+Pre-install scanner for public GitHub repositories and AI-skill packages. Fetches a repo at an exact commit and statically analyzes it without installing or executing target code. Verdict is APPROVED or REJECTED.
+
+**[Barangay SAGIP](https://github.com/solsonaM/Barangay-SAGIP)** — PHP / Laravel  
+Emergency assistance classification and response coordination platform for smart barangay services. Tokenization-based, rule-based classification with FastAPI, maps, notifications, and reports.
+
+## Currently
+
+- Studying Computer Science at CatSU
+- Operating as COO of the Vanguard Society
+- Looking for internships
+
+## Stack
+
+Python · PHP · JavaScript · Laravel · FastAPI · Docker · GitHub Actions
